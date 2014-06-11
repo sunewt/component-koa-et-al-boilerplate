@@ -19,11 +19,28 @@ Client includes following examples:
 * Including templates via [domify](https://github.com/component/domify)
 * Template/view /w bindings via [reactive](https://github.com/component/reactive)
 
-## Installation
-
-### Requires following tools on PATH
+## Requires following tools on PATH
 * Node >= 0.11.9
 * NPM
+
+## Running example
+
+    $ ./setup.sh
+    Installing tools
+    -- Component
+    -- Supervisor
+    -- Mocha
+    Installing dependencies
+    
+    $ ./devel.sh
+    Installing dependencies
+    Setting environment to development
+    Starting application
+    
+    (...)
+    
+    Starting server in development mode
+    Application listening on port 9000.
 
 ### Windows
 1. Hit setup.cmd (may need to be run as administrator as it contains npm global installs)
