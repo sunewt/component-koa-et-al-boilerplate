@@ -19,6 +19,8 @@ Client includes following examples:
 * Including templates via [domify](https://github.com/component/domify)
 * Template/view /w bindings via [reactive](https://github.com/component/reactive)
 
+Inspired by and in part adapted from projects such as [boilerplate-koa](https://github.com/component/boilerplate-koa), [component.io](https://github.com/component/component.io) and others.
+
 ## Requires following tools on PATH
 * Node >= 0.11.9
 * NPM
