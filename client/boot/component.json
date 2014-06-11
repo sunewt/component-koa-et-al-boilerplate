@@ -1,0 +1,20 @@
+{
+    "name": "boot",
+    "dependencies": {
+        "visionmedia/page.js": "*"
+    },
+    "locals": [
+        "pure",
+        "welcome",
+        "about"
+    ],
+    "scripts": [
+        "index.js"
+    ],
+    "styles": [
+        "layout.css"
+    ],
+    "templates": [
+        "layout.html"
+    ]
+}

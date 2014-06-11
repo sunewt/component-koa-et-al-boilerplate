@@ -1,0 +1,10 @@
+{
+    "name": "about",
+    "dependencies": {
+        "component/domify": "*"
+    },
+    "scripts": [
+        "about.js"
+    ],
+    "templates": "about.html"
+}

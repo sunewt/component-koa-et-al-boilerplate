@@ -1,0 +1,6 @@
+{
+    "name": "boilerplate",
+    "private": true,
+    "paths": ["client"],
+    "locals": ["boot"]
+}

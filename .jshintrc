@@ -1,0 +1,15 @@
+{
+    "nonew": true,
+    "curly": true,
+    "noarg": true,
+    "esnext": true,
+    "forin": true,
+    "noempty": true,
+    "node": true,
+    "eqeqeq": true,
+    "strict": true,
+    "undef": true,
+    "bitwise": true,
+    "browser": true,
+    "predef": [ "describe", "it" ]
+}

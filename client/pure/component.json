@@ -1,0 +1,8 @@
+{
+    "name": "pure",
+    "styles": [
+        "base.css",
+        "grids.css",
+        "menus.css"
+    ]
+}

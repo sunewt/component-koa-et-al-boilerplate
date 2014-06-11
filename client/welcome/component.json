@@ -1,0 +1,11 @@
+{
+    "name": "welcome",
+    "dependencies": {
+        "component/domify": "*",
+        "component/reactive": "*"
+    },
+    "scripts": [
+        "welcome.js"
+    ],
+    "templates": "welcome.html"
+}
