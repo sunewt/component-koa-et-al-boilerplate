@@ -23,7 +23,7 @@
         "koa-livereload": ">=0.1.23",
         "mocha": ">=1.0.0",
         "supertest": "*",
-        "tiny-lr": "0.0.7"
+        "tiny-lr": ">=0.0.7"
     },
     "main": "server",
     "scripts": {
