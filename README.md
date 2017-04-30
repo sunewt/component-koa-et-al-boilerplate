@@ -11,7 +11,7 @@ Server includes following examples:
 * Development environment with LiveReload and automatic reload on backend changes
 * Routing via [koa-route](https://github.com/koajs/route)
 * A * style server that always serves the client side code when no other files/endpoints are hit (used for client side routing without fragments)
-* Tests using [mocha](http://visionmedia.github.io/mocha/)
+* Tests using [mocha](http://mochajs.org/)
 
 Client includes following examples:
 * A component consisting purely of CSS (by coincidence, purecss)
